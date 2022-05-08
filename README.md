@@ -23,7 +23,7 @@ VUC (Very Useful Cipher).
 ---
 The VUC or Very Useful Cipher is a substitution cipher capable of encoding text.</br>The **Encoding Process** is done by
 replacing ***just the latin alphabet letters*** present in the text by its corresponding key (in this case another
-alphabet letter). Every other character that is not a latin alphabet letter won't be replaced.</br>The **Decoding
+alphabet letter). Every other character that is not a latin alphabet letter won't be replaced.</br></br>The **Decoding
 Process** is the reverse of the encoding process, which means, the keys (alphabet letters obtained from encoding the
 original ones) present in the text are replaced by the corresponding letters.</br>The cipher key is given in the
 table below.
