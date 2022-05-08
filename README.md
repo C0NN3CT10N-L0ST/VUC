@@ -31,7 +31,7 @@ table below.
 ## Cipher Key
 ![alt](https://github.com/C0NN3CT10N-L0ST/VUC/blob/main/vuc-table.png "VUC Table")
 </br>
-##### Caption: VUC keys for capital letters.
+##### **Caption:** VUC keys for capital letters.
 
 ### Note:
 This table only represents the keys for capital letters. For lower case letter the key is the same but in lower case.
@@ -131,5 +131,5 @@ Invalid option!
 
 **NOTE:** The program must always show the menu again whenever the user executes any option (including invalid options).
 
-### **Program execution example (video):**
+#### **Program execution example (video):**
 https://user-images.githubusercontent.com/35537988/167313167-d6d4bd35-880e-49fb-b961-f419079ad186.mp4
