@@ -132,4 +132,4 @@ Invalid option!
 **NOTE:** The program must always show the menu again whenever the user executes any option (including invalid options).
 
 ### **Program execution example (video):**
-https://github.com/C0NN3CT10N-L0ST/VUC/blob/main/VUC.mp4
+https://user-images.githubusercontent.com/35537988/167313167-d6d4bd35-880e-49fb-b961-f419079ad186.mp4
