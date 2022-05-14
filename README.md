@@ -16,7 +16,7 @@
 
 ## Problem Description
 ---
-The goal of this exercise is the implementation of a program that is able to codify and encode and decode text by using
+The goal of this exercise is the implementation of a program that is able to encode and decode text by using
 VUC (Very Useful Cipher).
 
 ## VUC - Very Useful Cipher
