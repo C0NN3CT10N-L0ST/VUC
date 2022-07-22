@@ -29,7 +29,7 @@ original ones) present in the text are replaced by the corresponding letters.</b
 table below.
 
 ## Cipher Key
-![alt](https://github.com/C0NN3CT10N-L0ST/VUC/blob/main/vuc-table.png "VUC Table")
+![VUC Table](assets/vuc-table.png)
 </br>
 ##### **Caption:** VUC keys for capital letters.
 
@@ -132,4 +132,4 @@ Invalid option!
 **NOTE:** The program must always show the menu again whenever the user executes any option (including invalid options).
 
 #### **Program execution example (video):**
-https://user-images.githubusercontent.com/35537988/167313167-d6d4bd35-880e-49fb-b961-f419079ad186.mp4
+[![VUC Video](assets/vuc_banner.png)](https://youtu.be/h4g4eyW641I)
