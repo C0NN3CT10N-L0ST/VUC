@@ -1,4 +1,6 @@
 # VUC - Very Useful Cipher *(\*COUGH\** *\*COUGH\*)*
+![VUC Banner](assets/vuc_banner.png)
+___
 ### The purpose of this exercise is to practice the following topics:
 * Variables
 * Operators
